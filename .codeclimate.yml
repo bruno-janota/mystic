@@ -1,0 +1,10 @@
+exclude_patterns:
+- "cache/"
+- "_examples/"
+- "examples/"
+- "examples2/"
+- "examples3/"
+- "examples4/"
+- "examples5/"
+- "scripts/"
+- "docs/"
